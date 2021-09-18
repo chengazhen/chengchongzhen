@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm azhen</h1>
 <h3 align="center">A passionate frontend developer from china</h3>
 
-- 🌱 I’m currently learning **vue sound code**
+- 🌱 I’m currently learning **vue source code**
 
 - 💬 Ask me about **vue, uniapp**
 
