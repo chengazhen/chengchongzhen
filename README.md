@@ -5,7 +5,7 @@
 
 - 💬 Ask me about **vue, uniapp**
 
-- ⚡ Fun fact **I like working out and reading**
+- ⚡ Fun fact **I love working out, reading books, and obviously my profile picture proves it all. ha-ha**
 
 
 <h3 align="left">Languages and Tools:</h3>
